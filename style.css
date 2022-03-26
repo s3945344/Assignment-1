@@ -1,0 +1,40 @@
+
+body {
+  background-color: rgb(217, 222, 211);
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Shrikhand', cursive;
+  color: rgb(135, 156, 124);
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  color: rgb(145, 128, 179);
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  padding-top: 10px;
+  text-align: center;
+  color: rgb(112, 139, 194);
+  font-size: 20px;
+  font-family: 'DM Serif Text', serif;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+p {
+  font-size: 17px;
+  font-family: 'Source Serif Pro', serif;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}

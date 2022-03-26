@@ -1,0 +1,14 @@
+.container {
+  margin: 150px auto;
+  width: 100%;
+  padding: 20px;
+}
+
+img {
+    float: left;
+    height: 300px;
+    padding: 10px;
+}
+.text {
+  text-align: justify;
+}
